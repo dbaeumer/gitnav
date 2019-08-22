@@ -1,0 +1,22 @@
+{
+  "name": "gitnav",
+  "version": "0.1.0",
+  "description": "Repository to test git navigation features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbaeumer/gitnav.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbaeumer/gitnav/issues"
+  },
+  "homepage": "https://github.com/dbaeumer/gitnav#readme",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
